@@ -6,16 +6,16 @@ and a two-tailed dependent sample t-test to draw a conclusion.
 
 </br>
 <p align="left">
-  <img src="ds.JPG" width="350"/>
+  <img src="ds.JPG" width="200"/>
 </p>
 
 </br>
 <p align="left">
-  <img src="ttests.JPG" width="350"/>
+  <img src="ttests.JPG" width="700"/>
 </p>
 
 
 </br>
 <p align="left">
-  <img src="ttest.JPG" width="350"/>
+  <img src="ttest.JPG" width="500"/>
 </p>
