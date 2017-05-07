@@ -1,5 +1,5 @@
 ## Test a Perceptual Phenomenon
-Language: Python(pandas, NumPy, Matplotlib, SciPy) </br>
+Language: Python (pandas, NumPy, Matplotlib, SciPy) </br>
 Skills: Hypothesis testing, Measures of variability, Data visualization </br>
 Analyzed the Stroop effect using descriptive statistics to provide an intuition about the data, 
 and a two-tailed dependent sample t-test to draw a conclusion.
